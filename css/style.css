@@ -50,6 +50,17 @@ ul {
     width: 1170px;
   }
 }
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background-color: #e6e6e6;
+  box-shadow: 0 2px 15px rgb(0 0 0 / 10%) inset;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--main-color);
+  border-radius: 20px;
+}
 .main-title {
   width: fit-content;
   margin-left: auto;
