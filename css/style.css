@@ -1167,10 +1167,10 @@ header .mega-menu .list-group li a i {
   background-color: white;
   z-index: 1;
 }
-@media (max-width: 300px) {
+@media (max-width: 390px) {
   .latest-events .event .event-info .counter div {
-    width: 45px;
-    margin-left: 5px;
+    width: 50px;
+    margin-left: 10px;
   }
 }
 .latest-events .event .event-info .counter div span {
@@ -1188,7 +1188,7 @@ header .mega-menu .list-group li a i {
   padding: 10px 0;
   border-top: 1px solid var(--main-border-color);
 }
-@media (max-width: 300px) {
+@media (max-width: 390px) {
   .latest-events .event .event-info .counter div span:first-of-type {
     font-size: 20px;
   }
