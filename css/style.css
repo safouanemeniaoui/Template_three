@@ -1169,8 +1169,8 @@ header .mega-menu .list-group li a i {
 }
 @media (max-width: 300px) {
   .latest-events .event .event-info .counter div {
-    width: 50px;
-    margin-left: 10px;
+    width: 45px;
+    margin-left: 5px;
   }
 }
 .latest-events .event .event-info .counter div span {
